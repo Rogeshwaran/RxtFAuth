@@ -1,4 +1,4 @@
 # RxtFAuth
 
-###To Run
-<h3> npm start </h3>
+### To Run
+<h4> npm start <h4>
